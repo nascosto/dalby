@@ -8,5 +8,6 @@ Steps
 1. Open command prompt
 1. Navigate to the folder
 1. Run `node index`
+1. The file will be recreated in the same folder as topics.csv
 
 Note: If the Church changes its website, this may stop working. 
